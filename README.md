@@ -18,3 +18,14 @@
 ## 本地运行
 
 直接在浏览器中打开 `index.html` 文件即可查看网站。
+
+## 项目结构
+
+- `index.html` - 主页
+- `styles.css` - 样式文件
+- `script.js` - JavaScript脚本
+- `README.md` - 项目说明文件
+
+## 在线访问
+
+项目已经部署，可以通过 GitHub Pages 访问。
